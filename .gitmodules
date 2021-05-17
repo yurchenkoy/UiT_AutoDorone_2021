@@ -1,0 +1,9 @@
+[submodule "zed-ros-wrapper"]
+	path = zed-ros-wrapper
+	url = https://github.com/stereolabs/zed-ros-wrapper.git
+[submodule "ROS-MSCL"]
+	path = ROS-MSCL
+	url = https://github.com/LORD-MicroStrain/ROS-MSCL.git
+[submodule "rosserial"]
+	path = rosserial
+	url = https://github.com/ros-drivers/rosserial.git
