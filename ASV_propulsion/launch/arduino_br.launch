@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="rosserial_python" type="serial_node.py" name="serial_node" args = "/dev/ttyUSB0" />
+
+    <node pkg="arduino-br" type="ardumotors.py" name="ardumotors" />
+
+</launch>
